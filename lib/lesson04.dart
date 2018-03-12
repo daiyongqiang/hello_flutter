@@ -1,5 +1,8 @@
-//1、函数定义
+/**
+ * 4、函数
+ */
 
+//1、函数定义
 //首先，函数也是对象，当没有指定返回值的时候，函数返回null函数定义方法如下：
 String sayHello(String name) {
   return "Hello $name!";
